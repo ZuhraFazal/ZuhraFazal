@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zuhra Fazal
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html% css3 and javascript
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m currently a final year software engineering student
+- 🌱 I’m pasionate about AI, Ml and deeplearning
 - 📫 How to reach me zuhrafazal0@gmail.com
 
 <!---
