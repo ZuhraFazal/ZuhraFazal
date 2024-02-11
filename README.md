@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zuhra Fazal
-- 👀 I’m currently a final year software engineering student
-- 🌱 I’m pasionate about AI, Ml and deeplearning
+- 👀 I’m a software Engineering Student
 - 📫 How to reach me zuhrafazal0@gmail.com
 
 <!---
